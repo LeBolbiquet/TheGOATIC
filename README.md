@@ -1,15 +1,15 @@
-### The Goatic - Bot in developement
+### The Goatic
 
 
-[![Downloads](https://img.shields.io/github/downloads/LeBolbiquet/The-GOATIC/total.svg)](https://github.com/LeBolbiquet/The-GOATIC/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/jagrosh/MusicBot/total.svg)](https://github.com/LeBolbiquet/The-GOATIC)
 
-## Features
-  * Menus clean et soigné
-  * Commandes fun (loto qui kick un membre random etc)
-  * PLusieurs bots en 1 avec système de ticket, d'image d'arrivé et de départs etc
+# In development
+This bot is in development, follow its progress here
 
-## Questions/Suggestions/Bug Reports
-**Please read the [Issues List](https://github.com/jagrosh/MusicBot/issues) before suggesting a feature**. If you have a question, need troubleshooting help, or want to brainstorm a new feature, please start a [Discussion](https://github.com/jagrosh/MusicBot/discussions). If you'd like to suggest a feature or report a reproducible bug, please open an [Issue](https://github.com/jagrosh/MusicBot/issues) on this repository. If you like this bot, be sure to add a star to the libraries that make this possible: [**JDA**](https://github.com/DV8FromTheWorld/JDA) and [**lavaplayer**](https://github.com/sedmelluq/lavaplayer)!
+# Features
+  * Clean and Beautiful Mennu
+  * Fun commands
+  * Several bot in one ticket system, custom welcome and leave pictures...
 
-## Editing
-This bot (and the source code here) might not be easy to edit for inexperienced programmers. The main purpose of having the source public is to show the capabilities of the libraries, to allow others to understand how the bot works, and to allow those knowledgeable about java, JDA, and Discord bot development to contribute. There are many requirements and dependencies required to edit and compile it, and there will not be support provided for people looking to make changes on their own. Instead, consider making a feature request (see the above section). If you choose to make edits, please do so in accordance with the Apache 2.0 License.
+# Questions/Suggestions/Bug Reports
+If you have a question, need troubleshooting help, or want to brainstorm a new feature, suggest a feature or report a reproducible bug please join me on my [discord server](https://discord.gg/WTe9HUYM9v). If you like this bot, be sure to add a star to the libraries :)
