@@ -2,10 +2,10 @@
 
 # JMusicBot
 
-[![Downloads](https://img.shields.io/github/downloads/jagrosh/MusicBot/total.svg)](https://github.com/LeBolbiquet/The-GOATIC/releases/latest)
-[![Stars](https://img.shields.io/github/stars/jagrosh/MusicBot.svg)](https://github.com/LeBolbiquet/The-GOATIC/stargazers)
-[![Release](https://img.shields.io/github/release/jagrosh/MusicBot.svg)](https://github.com/LeBolbiquet/The-GOATIC/releases/latest)
-[![License](https://img.shields.io/github/license/jagrosh/MusicBot.svg)](https://github.com/LeBolbiquet/The-GOATIC/blob/master/LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/LeBolbiquet/The-GOATIC/total.svg)](https://github.com/LeBolbiquet/The-GOATIC/releases/latest)
+[![Stars](https://img.shields.io/github/stars/LeBolbiquet/The-GOATIC.svg)](https://github.com/LeBolbiquet/The-GOATIC/stargazers)
+[![Release](https://img.shields.io/github/release/LeBolbiquet/The-GOATIC.svg)](https://github.com/LeBolbiquet/The-GOATIC/releases/latest)
+[![License](https://img.shields.io/github/license/LeBolbiquet/The-GOATIC.svg)](https://github.com/LeBolbiquet/The-GOATIC/blob/master/LICENSE)
 [![Discord](https://discordapp.com/api/guilds/147698382092238848/widget.png)](https://discord.gg/WTe9HUYM9v)<br>
 [![CircleCI](https://img.shields.io/circleci/project/github/LeBolbiquet/The-GOATIC/master.svg)](https://circleci.com/gh/LeBolbiquet/The-GOATIC)
 [![AppVeyor](https://ci.appveyor.com/api/projects/status/gdu6nyte5psj6xfk/branch/master?svg=true)](https://ci.appveyor.com/project/LeBolbiquet/The-GOATIC/branch/master)
