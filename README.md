@@ -16,7 +16,7 @@
 ---
 
 ### Features 🎯
-  * Clean and Beautiful Mennu
+  * Clean and Beautiful Menu
   * Fun commands
   * Several bot in one ticket system, custom welcome and leave pictures...
 
