@@ -1,4 +1,5 @@
 <img align="right" src="https://cdn.discordapp.com/attachments/984087423736762378/984121011450576906/pp_goatic_3_1.png" height="200" width="200">
+
 ## 🐐 THE GOATIC 🐐
 
 #### This bot is in development, follow its progress here
