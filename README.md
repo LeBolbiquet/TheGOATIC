@@ -10,12 +10,12 @@
 
 [![Downloads](https://img.shields.io/github/downloads/LeBolbiquet/The-GOATIC/total.svg)](https://github.com/LeBolbiquet/The-GOATIC)
 [![Stars](https://img.shields.io/github/stars/LeBolbiquet/The-GOATIC.svg)](https://github.com/LeBolbiquet/The-GOATIC/stargazers)
-[![Release](https://img.shields.io/amo/v/e?color=%23606EB3&label=Release)](https://github.com/LeBolbiquet/The-GOATIC/releases/latest)
+[![Release](https://img.shields.io/amo/v/e?color=The-GOATIC=Release)](https://github.com/LeBolbiquet/The-GOATIC/releases/latest)
 [![Discord](https://discordapp.com/api/guilds/856264603577876500/widget.png)](https://discord.gg/WTe9HUYM9v)
 
 ---
 
-### Features 🎯
+### Futur features 🎯
   * Clean and Beautiful Menu
   * Fun commands
   * Several bot in one ticket system, custom welcome and leave pictures...
