@@ -2,7 +2,7 @@
 
 ## 🐐 THE GOATIC 🐐
 
-#### This bot is in development, follow its progress here
+#### This bot is in development and on break for the moment but follow its progress here
 
 ---
 
